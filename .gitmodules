@@ -1,0 +1,3 @@
+[submodule "Sources/libimobiledevice-glue"]
+	path = Sources/libimobiledevice-glue
+	url = https://github.com/Schlaubischlump/libimobiledevice-glue.git
